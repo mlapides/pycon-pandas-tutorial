@@ -5,7 +5,6 @@ import gzip
 import os
 import re
 import sys
-
 from datetime import datetime
 
 split_on_tabs = re.compile(b"\t+").split
